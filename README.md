@@ -79,4 +79,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 6. Verify the application:
    Open [http://localhost:3000](http://localhost:3000) in your browser to see the integrated v0 components.
 
+## Using Navigation Links
+
+The application includes navigation links to easily access the integrated v0 components. To use the navigation links:
+
+1. Open [http://localhost:3000](http://localhost:3000) in your browser.
+2. Use the navigation bar at the top of the page to click on the links corresponding to each v0 component.
+3. Clicking on a link will scroll the page to the respective component section.
+
 *Note: The installation guide has been updated.*
